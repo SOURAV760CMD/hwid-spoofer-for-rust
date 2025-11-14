@@ -2,6 +2,7 @@
 
 Ready to get back to building your base and surviving the wilderness? A top-quality Rust spoofer is your golden ticket to a fresh start on the island! Let's break down what makes them so effective.
 
+[![5624674578](https://github.com/user-attachments/assets/13dc16a5-2369-4979-9d2c-4fd2b50352e3)](https://tinyurl.com/57b2dsu7)
 
 ### **🤔 What is a Rust Spoofer?**
 
